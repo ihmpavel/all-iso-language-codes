@@ -13,13 +13,13 @@ All data are available in `json` format in `data/[language]/639-1.json`. More fo
 | Function | Arguments | Return value | Example usage |
 |---|---|---|---|
 | `getEnglishName(code: string)` | `language code` | `string | null` | `getEnglishName('cs')` => `Czech` |
-| `getName(code: string, language = 'en')` | `from language, to language?` | `string | null` | `getName('cs', 'en')` => `Czech` |
-| `isValid(code: string, availableIsoTypes?: IsoType[], moreInfo = false)` | `language code, IsoType (below table), moreInfo` | `boolean | { iso: IsoType | null; found: boolean; }` | `isValid('cs')` => `true`, `isValid('cs', ['639-1'], true)` => `{ iso: '639-1'; found: true; }`, |
+| `getName(code: string, language = 'en')` | `from language, to language?` | `string &#124; null` | `getName('cs', 'en')` => `Czech` |
+| `isValid(code: string, availableIsoTypes?: IsoType[], moreInfo = false)` | `language code, IsoType (below table), moreInfo` | `boolean | { iso: IsoType &#124; null; found: boolean; }` | `isValid('cs')` => `true`, `isValid('cs', ['639-1'], true)` => `{ iso: '639-1'; found: true; }`, |
 | `getIsoCodesFromNativeName(nativeName: string, normalizeString = false)` | `language name, should normalize string (lowercase and remove diacritics)` | `IsoType[] | null` | `getIsoCodesFromNativeName('ČeŠtInA', true)` => `['639-3', '639-2B', '639-2T', '639-1']` |
-| `getAll639_1()` | X | `string[]` (_639-1_ list) | `getAll639_1()` => ['aa', 'ab', 'af'...] |
-| `getAll639_2B()` | X | `string[]` (_639-2B_ list) | `getAll639_2B()` => ['aar', 'abk', 'ace'...] |
-| `getAll639_2T()` | X | `string[]` (_639-2T_ list) | `getAll639_2T()` => ['aar', 'abk', 'ace'...] |
-| `getAll639_3()` | X | `string[]` (_639-3_ list) | `getAll639_3()` => ['aaa', 'aab', 'aac'...] |
+| `getAll639_1()` | - | `string[]` (_639-1_ list) | `getAll639_1()` => `['aa', 'ab', 'af'...]` |
+| `getAll639_2B()` | - | `string[]` (_639-2B_ list) | `getAll639_2B()` => `['aar', 'abk', 'ace'...]` |
+| `getAll639_2T()` | - | `string[]` (_639-2T_ list) | `getAll639_2T()` => `['aar', 'abk', 'ace'...]` |
+| `getAll639_3()` | - | `string[]` (_639-3_ list) | `getAll639_3()` => `['aaa', 'aab', 'aac'...]` |
 
 `type IsoType = "639-1" | "639-2B" | "639-2T" | "639-3"`
 
