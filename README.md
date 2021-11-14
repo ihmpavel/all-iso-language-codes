@@ -1,6 +1,6 @@
 # List of ISO 639-1, 639-2T, 639-2B and 639-3 codes with translations in all available languages.
 
-Sometimes you need to get a fresh list of 639-1, 639-2T, 639-2B or 639-3 language codes and their translations. Until now there was not an easy way to get them.
+Sometimes you need to get a fresh list of **639-1**, **639-2T**, **639-2B** or **639-3** language codes and their translations. Until now there was not an easy way to get them.
 
 All data are available in `json` format in `data/[language]/639-1.json`. More formats might be available in the [future](#file-format).
 
