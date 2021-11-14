@@ -1,0 +1,50 @@
+{
+  "name": "all-iso-language-codes",
+  "version": "1.0.0-alpha.0",
+  "private": false,
+  "description": "List of all iso 639-1, 639-2T, 639-2B, 639-3 codes with their translations in any language",
+  "keywords": [
+    "iso",
+    "639-1",
+    "639-2T",
+    "639-2B",
+    "639-3",
+    "iso translations"
+  ],
+  "homepage": "https://github.com/ihmpavel/all-iso-language-codes",
+  "bugs": "https://github.com/ihmpavel/all-iso-language-codes/issues",
+  "repository": {
+    "type": "git"
+  },
+  "author": "Pavel Ihm",
+  "main": "build/src/index.js",
+  "types": "build/src/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "./scripts/build.sh",
+    "generate": "yarn run ts-node scripts/index.ts",
+    "l": "yarn lint:fix",
+    "lint": "eslint \"{src,scripts,test}/**/*.{js,ts,tsx}\"",
+    "lint:fix": "eslint \"{src,scripts,test}/**/*.{js,ts,tsx}\" --fix",
+    "release": "./scripts/release.sh",
+    "test": "jest"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@types/node-fetch": "^2.5.12",
+    "@typescript-eslint/eslint-plugin": "^5.3.1",
+    "@typescript-eslint/parser": "^5.3.1",
+    "eslint": "^8.2.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-sort-imports-es6-autofix": "^0.6.0",
+    "jest": "^27.3.1",
+    "prettier": "^2.4.1",
+    "ts-jest": "^27.0.7",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
+}
