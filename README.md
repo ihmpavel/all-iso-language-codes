@@ -21,7 +21,7 @@ All data are available in `json` format in `data/[language]/639-1.json`. More fo
 | `getAll639_2T()` | - | `string[]` (_639-2T_ array) | `getAll639_2T()` => `['aar', 'abk', 'ace'...]` |
 | `getAll639_3()` | - | `string[]` (_639-3_ array) | `getAll639_3()` => `['aaa', 'aab', 'aac'...]` |
 
-`type IsoType = "639-1" | "639-2B" | "639-2T" | "639-3"`
+`type IsoType = '639-1' | '639-2B' | '639-2T' | '639-3'`
 
 ### File format
 If you have some ideas (`csv`, another `JSON` format...) let me know or create PR.
