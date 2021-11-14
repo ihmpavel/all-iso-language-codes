@@ -30,7 +30,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.0.0"
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
