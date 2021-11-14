@@ -1,6 +1,6 @@
 {
   "name": "all-iso-language-codes",
-  "version": "1.0.0-alpha.0",
+  "version": "0.0.0",
   "private": false,
   "description": "List of all iso 639-1, 639-2T, 639-2B, 639-3 codes with their translations in any language",
   "keywords": [
@@ -22,7 +22,7 @@
   "license": "MIT",
   "scripts": {
     "build": "./scripts/build.sh",
-    "generate": "yarn run ts-node scripts/index.ts",
+    "generate": "yarn run ts-node scripts/generate.ts",
     "l": "yarn lint:fix",
     "lint": "eslint \"{src,scripts,test}/**/*.{js,ts,tsx}\"",
     "lint:fix": "eslint \"{src,scripts,test}/**/*.{js,ts,tsx}\" --fix",
