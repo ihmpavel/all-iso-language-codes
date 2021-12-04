@@ -1516,8 +1516,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Judeo-Moroccan Arabic",
-    "englishName": "Judeo-Moroccan Arabic"
+    "nativeName": "Judeo-Arabic",
+    "englishName": "Judeo-Arabic"
   },
   {
     "639-3": "ajw",
@@ -1868,8 +1868,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Tosk Albanian",
-    "englishName": "Tosk Albanian"
+    "nativeName": "shqip",
+    "englishName": "Albanian"
   },
   {
     "639-3": "alt",
@@ -2772,8 +2772,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Standard Arabic",
-    "englishName": "Standard Arabic"
+    "nativeName": "العربية",
+    "englishName": "Arabic"
   },
   {
     "639-3": "arc",
@@ -3956,8 +3956,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Central Aymara",
-    "englishName": "Central Aymara"
+    "nativeName": "Aymara",
+    "englishName": "Aymara"
   },
   {
     "639-3": "ays",
@@ -4036,8 +4036,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "North Azerbaijani",
-    "englishName": "North Azerbaijani"
+    "nativeName": "azərbaycan",
+    "englishName": "Azerbaijani"
   },
   {
     "639-3": "azm",
@@ -4468,8 +4468,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Southern Balochi",
-    "englishName": "Southern Balochi"
+    "nativeName": "Baluchi",
+    "englishName": "Baluchi"
   },
   {
     "639-3": "bcd",
@@ -4540,8 +4540,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Central Bikol",
-    "englishName": "Central Bikol"
+    "nativeName": "Bikol",
+    "englishName": "Bikol"
   },
   {
     "639-3": "bcm",
@@ -8644,8 +8644,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Bukusu",
-    "englishName": "Bukusu"
+    "nativeName": "Luluhia",
+    "englishName": "Luyia"
   },
   {
     "639-3": "bxl",
@@ -8700,8 +8700,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Russia Buriat",
-    "englishName": "Russia Buriat"
+    "nativeName": "Buriat",
+    "englishName": "Buriat"
   },
   {
     "639-3": "bxs",
@@ -10332,8 +10332,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Chaldean Neo-Aramaic",
-    "englishName": "Chaldean Neo-Aramaic"
+    "nativeName": "Syriac",
+    "englishName": "Syriac"
   },
   {
     "639-3": "cle",
@@ -10484,8 +10484,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Mandarin Chinese",
-    "englishName": "Mandarin Chinese"
+    "nativeName": "中文",
+    "englishName": "Chinese"
   },
   {
     "639-3": "cmo",
@@ -10604,7 +10604,7 @@
     "639-2B": "cnr",
     "639-2T": "cnr",
     "639-1": null,
-    "nativeName": "Montenegrin",
+    "nativeName": "srpski (Crna Gora)",
     "englishName": "Montenegrin"
   },
   {
@@ -11644,8 +11644,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Woods Cree",
-    "englishName": "Woods Cree"
+    "nativeName": "Cree",
+    "englishName": "Cree"
   },
   {
     "639-3": "cwe",
@@ -12412,8 +12412,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Dogri (individual language)",
-    "englishName": "Dogri (individual language)"
+    "nativeName": "डोगरी",
+    "englishName": "Dogri"
   },
   {
     "639-3": "dgr",
@@ -12468,8 +12468,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Dhundari",
-    "englishName": "Dhundari"
+    "nativeName": "Marwari",
+    "englishName": "Marwari"
   },
   {
     "639-3": "dhg",
@@ -12644,8 +12644,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Southwestern Dinka",
-    "englishName": "Southwestern Dinka"
+    "nativeName": "Dinka",
+    "englishName": "Dinka"
   },
   {
     "639-3": "dil",
@@ -12692,8 +12692,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Dimli (individual language)",
-    "englishName": "Dimli (individual language)"
+    "nativeName": "Zaza",
+    "englishName": "Zaza"
   },
   {
     "639-3": "dir",
@@ -14308,8 +14308,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Standard Estonian",
-    "englishName": "Standard Estonian"
+    "nativeName": "eesti",
+    "englishName": "Estonian"
   },
   {
     "639-3": "ekl",
@@ -14476,8 +14476,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Eastern Maninkakan",
-    "englishName": "Eastern Maninkakan"
+    "nativeName": "Mandingo",
+    "englishName": "Mandingo"
   },
   {
     "639-3": "emm",
@@ -14836,8 +14836,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Northwest Alaska Inupiatun",
-    "englishName": "Northwest Alaska Inupiatun"
+    "nativeName": "Inupiaq",
+    "englishName": "Inupiaq"
   },
   {
     "639-3": "esl",
@@ -15220,8 +15220,8 @@
     "639-2B": "fat",
     "639-2T": "fat",
     "639-1": null,
-    "nativeName": "Fanti",
-    "englishName": "Fanti"
+    "nativeName": "Akan",
+    "englishName": "Akan"
   },
   {
     "639-3": "fau",
@@ -15693,7 +15693,7 @@
     "639-2T": null,
     "639-1": null,
     "nativeName": "Pulaar",
-    "englishName": "Pulaar"
+    "englishName": "Fulah"
   },
   {
     "639-3": "fud",
@@ -16036,8 +16036,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "West Central Oromo",
-    "englishName": "West Central Oromo"
+    "nativeName": "Oromoo",
+    "englishName": "Oromo"
   },
   {
     "639-3": "gba",
@@ -16148,8 +16148,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Northern Grebo",
-    "englishName": "Northern Grebo"
+    "nativeName": "Grebo",
+    "englishName": "Grebo"
   },
   {
     "639-3": "gbp",
@@ -17404,8 +17404,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Northern Gondi",
-    "englishName": "Northern Gondi"
+    "nativeName": "Gondi",
+    "englishName": "Gondi"
   },
   {
     "639-3": "gnq",
@@ -18028,8 +18028,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Paraguayan Guaraní",
-    "englishName": "Paraguayan Guaraní"
+    "nativeName": "Guarani",
+    "englishName": "Guarani"
   },
   {
     "639-3": "guh",
@@ -18412,8 +18412,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Northwest Gbaya",
-    "englishName": "Northwest Gbaya"
+    "nativeName": "Gbaya",
+    "englishName": "Gbaya"
   },
   {
     "639-3": "gyb",
@@ -18788,8 +18788,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": "sh",
-    "nativeName": "Serbo-Croatian",
-    "englishName": "Serbo-Croatian"
+    "nativeName": "srpski (latinica)",
+    "englishName": "Serbian (Latin)"
   },
   {
     "639-3": "hbu",
@@ -18820,8 +18820,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Northern Haida",
-    "englishName": "Northern Haida"
+    "nativeName": "Haida",
+    "englishName": "Haida"
   },
   {
     "639-3": "hds",
@@ -18844,8 +18844,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Northern Qiandong Miao",
-    "englishName": "Northern Qiandong Miao"
+    "nativeName": "Hmong",
+    "englishName": "Hmong"
   },
   {
     "639-3": "heb",
@@ -20580,8 +20580,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Eastern Canadian Inuktitut",
-    "englishName": "Eastern Canadian Inuktitut"
+    "nativeName": "Inuktitut",
+    "englishName": "Inuktitut"
   },
   {
     "639-3": "iki",
@@ -24028,8 +24028,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Halh Mongolian",
-    "englishName": "Halh Mongolian"
+    "nativeName": "монгол",
+    "englishName": "Mongolian"
   },
   {
     "639-3": "khl",
@@ -25108,8 +25108,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Northern Kurdish",
-    "englishName": "Northern Kurdish"
+    "nativeName": "kurdî",
+    "englishName": "Kurdish"
   },
   {
     "639-3": "kms",
@@ -25196,8 +25196,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Central Kanuri",
-    "englishName": "Central Kanuri"
+    "nativeName": "Kanuri",
+    "englishName": "Kanuri"
   },
   {
     "639-3": "knd",
@@ -25228,8 +25228,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Koongo",
-    "englishName": "Koongo"
+    "nativeName": "Kongo",
+    "englishName": "Kongo"
   },
   {
     "639-3": "kni",
@@ -25276,8 +25276,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Konkani (individual language)",
-    "englishName": "Konkani (individual language)"
+    "nativeName": "कोंकणी",
+    "englishName": "Konkani"
   },
   {
     "639-3": "kno",
@@ -25724,8 +25724,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Komi-Zyrian",
-    "englishName": "Komi-Zyrian"
+    "nativeName": "Komi",
+    "englishName": "Komi"
   },
   {
     "639-3": "kpw",
@@ -27996,8 +27996,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Central Bontok",
-    "englishName": "Central Bontok"
+    "nativeName": "bnc",
+    "englishName": "bnc"
   },
   {
     "639-3": "lbl",
@@ -30324,8 +30324,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Standard Latvian",
-    "englishName": "Standard Latvian"
+    "nativeName": "latviešu",
+    "englishName": "Latvian"
   },
   {
     "639-3": "lvu",
@@ -32004,8 +32004,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Eastern Mari",
-    "englishName": "Eastern Mari"
+    "nativeName": "Mari",
+    "englishName": "Mari"
   },
   {
     "639-3": "mhs",
@@ -33132,8 +33132,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Mandinka",
-    "englishName": "Mandinka"
+    "nativeName": "Mandingo",
+    "englishName": "Mandingo"
   },
   {
     "639-3": "mnl",
@@ -33893,7 +33893,7 @@
     "639-2T": "mri",
     "639-1": "mi",
     "nativeName": "te reo Māori",
-    "englishName": "Maori"
+    "englishName": "Māori"
   },
   {
     "639-3": "mrj",
@@ -34540,8 +34540,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Malvi",
-    "englishName": "Malvi"
+    "nativeName": "Rajasthani",
+    "englishName": "Rajasthani"
   },
   {
     "639-3": "muq",
@@ -37996,7 +37996,7 @@
     "639-2B": "nob",
     "639-2T": "nob",
     "639-1": "nb",
-    "nativeName": "Norwegian Bokmål",
+    "nativeName": "norsk bokmål",
     "englishName": "Norwegian Bokmål"
   },
   {
@@ -38212,8 +38212,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Nepali (individual language)",
-    "englishName": "Nepali (individual language)"
+    "nativeName": "नेपाली",
+    "englishName": "Nepali"
   },
   {
     "639-3": "npl",
@@ -39796,8 +39796,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Eastern Ojibwa",
-    "englishName": "Eastern Ojibwa"
+    "nativeName": "Ojibwa",
+    "englishName": "Ojibwa"
   },
   {
     "639-3": "oji",
@@ -40548,7 +40548,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Odia",
+    "nativeName": "ଓଡ଼ିଆ",
     "englishName": "Odia"
   },
   {
@@ -41196,8 +41196,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Northern Pashto",
-    "englishName": "Northern Pashto"
+    "nativeName": "پښتو",
+    "englishName": "Pashto"
   },
   {
     "639-3": "pbv",
@@ -41524,8 +41524,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Iranian Persian",
-    "englishName": "Iranian Persian"
+    "nativeName": "فارسی",
+    "englishName": "Persian"
   },
   {
     "639-3": "pev",
@@ -42212,8 +42212,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Plateau Malagasy",
-    "englishName": "Plateau Malagasy"
+    "nativeName": "Malagasy",
+    "englishName": "Malagasy"
   },
   {
     "639-3": "plu",
@@ -42436,8 +42436,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Western Panjabi",
-    "englishName": "Western Panjabi"
+    "nativeName": "Lahnda",
+    "englishName": "Lahnda"
   },
   {
     "639-3": "pnc",
@@ -43020,7 +43020,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Dari",
+    "nativeName": "دری",
     "englishName": "Dari"
   },
   {
@@ -43796,8 +43796,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Cusco Quechua",
-    "englishName": "Cusco Quechua"
+    "nativeName": "Runasimi",
+    "englishName": "Quechua"
   },
   {
     "639-3": "qva",
@@ -44836,8 +44836,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Vlax Romani",
-    "englishName": "Vlax Romani"
+    "nativeName": "Romany",
+    "englishName": "Romany"
   },
   {
     "639-3": "rmz",
@@ -48084,8 +48084,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Sabaot",
-    "englishName": "Sabaot"
+    "nativeName": "Kalenjin",
+    "englishName": "Kalenjin"
   },
   {
     "639-3": "sqa",
@@ -48212,15 +48212,15 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Logudorese Sardinian",
-    "englishName": "Logudorese Sardinian"
+    "nativeName": "sardu",
+    "englishName": "Sardinian"
   },
   {
     "639-3": "srd",
     "639-2B": "srd",
     "639-2T": "srd",
     "639-1": "sc",
-    "nativeName": "Sardinian",
+    "nativeName": "sardu",
     "englishName": "Sardinian"
   },
   {
@@ -49012,7 +49012,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Congo Swahili",
+    "nativeName": "Kiswahili (Jamhuri ya Kidemokrasia ya Kongo)",
     "englishName": "Congo Swahili"
   },
   {
@@ -49044,8 +49044,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Swahili (individual language)",
-    "englishName": "Swahili (individual language)"
+    "nativeName": "Kiswahili",
+    "englishName": "Swahili"
   },
   {
     "639-3": "swi",
@@ -50580,8 +50580,8 @@
     "639-2B": "tgl",
     "639-2T": "tgl",
     "639-1": "tl",
-    "nativeName": "Tagalog",
-    "englishName": "Tagalog"
+    "nativeName": "Filipino",
+    "englishName": "Filipino"
   },
   {
     "639-3": "tgn",
@@ -50956,7 +50956,7 @@
     "639-2B": "tir",
     "639-2T": "tir",
     "639-1": "ti",
-    "nativeName": "ትግር",
+    "nativeName": "ትግርኛ",
     "englishName": "Tigrinya"
   },
   {
@@ -52804,8 +52804,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Tawallammat Tamajaq",
-    "englishName": "Tawallammat Tamajaq"
+    "nativeName": "Tamashek",
+    "englishName": "Tamashek"
   },
   {
     "639-3": "ttr",
@@ -53236,8 +53236,8 @@
     "639-2B": "twi",
     "639-2T": "twi",
     "639-1": "tw",
-    "nativeName": "Twi",
-    "englishName": "Twi"
+    "nativeName": "Akan",
+    "englishName": "Akan"
   },
   {
     "639-3": "twl",
@@ -54228,8 +54228,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Munsee",
-    "englishName": "Munsee"
+    "nativeName": "Delaware",
+    "englishName": "Delaware"
   },
   {
     "639-3": "una",
@@ -54716,8 +54716,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Northern Uzbek",
-    "englishName": "Northern Uzbek"
+    "nativeName": "o‘zbek",
+    "englishName": "Uzbek"
   },
   {
     "639-3": "uzs",
@@ -58820,8 +58820,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Liberia Kpelle",
-    "englishName": "Liberia Kpelle"
+    "nativeName": "Kpelle",
+    "englishName": "Kpelle"
   },
   {
     "639-3": "xpf",
@@ -59172,8 +59172,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "South Slavey",
-    "englishName": "South Slavey"
+    "nativeName": "Slave",
+    "englishName": "Slave"
   },
   {
     "639-3": "xsm",
@@ -60148,8 +60148,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Eastern Yiddish",
-    "englishName": "Eastern Yiddish"
+    "nativeName": "ייִדיש",
+    "englishName": "Yiddish"
   },
   {
     "639-3": "yde",
@@ -61748,8 +61748,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Isthmus Zapotec",
-    "englishName": "Isthmus Zapotec"
+    "nativeName": "Zapotec",
+    "englishName": "Zapotec"
   },
   {
     "639-3": "zaj",
@@ -62908,8 +62908,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Standard Malay",
-    "englishName": "Standard Malay"
+    "nativeName": "Melayu",
+    "englishName": "Malay"
   },
   {
     "639-3": "zsr",
@@ -63092,8 +63092,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Yongbei Zhuang",
-    "englishName": "Yongbei Zhuang"
+    "nativeName": "Zhuang",
+    "englishName": "Zhuang"
   },
   {
     "639-3": "zyg",

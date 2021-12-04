@@ -10,7 +10,7 @@ const main = async () => {
   const res = await req.text()
 
   // ignore header
-  const [, ...rawData] = res.split('\r\n')
+  const [, ...rawData]: string[] = res.split('\r\n')
   // from the file header
   // Id, Part2B, Part2T, Part1, Scope, Language_Type, Ref_Name, Comment
   const rawRows = rawData.map(row => {
@@ -47,13 +47,11 @@ const main = async () => {
         if (!data_639_1[language]) {
           data_639_1[language] = {}
         }
-        // @ts-expect-error Trust me
         const translation = new Intl.DisplayNames([language], { type: 'language' }).of(l)
         // @ts-expect-error Translation
         data_639_1[language][l] =
           translation === l
-            ? // @ts-expect-error Trust me
-              new Intl.DisplayNames(['en'], { type: 'language' }).of(l)
+            ? new Intl.DisplayNames(['en'], { type: 'language' }).of(l)
             : translation
       })
 
@@ -65,11 +63,10 @@ const main = async () => {
 
     let englishName = row.englishName
     const nativeName =
-      // @ts-expect-error Intl TD error
-      new Intl.DisplayNames([row['639-3']], { type: 'language' }).of(row['639-3']) || null
+      new Intl.DisplayNames([row['639-3'] ?? ''], { type: 'language' }).of(row['639-3'] ?? '') ||
+      null
     const tempEnglishName =
-      // @ts-expect-error Intl TD error
-      new Intl.DisplayNames(['en'], { type: 'language' }).of(row['639-3']) || null
+      new Intl.DisplayNames(['en'], { type: 'language' }).of(row['639-3'] ?? '') || null
     if (tempEnglishName !== row.englishName && tempEnglishName !== row['639-3']) {
       englishName = tempEnglishName
     }
