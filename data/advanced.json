@@ -1504,12 +1504,12 @@
     "englishName": "South Levantine Arabic"
   },
   {
-    "639-3": "ajt",
+    "639-3": "ajs",
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Judeo-Tunisian Arabic",
-    "englishName": "Judeo-Tunisian Arabic"
+    "nativeName": "Algerian Jewish Sign Language",
+    "englishName": "Algerian Jewish Sign Language"
   },
   {
     "639-3": "aju",
@@ -7000,6 +7000,14 @@
     "englishName": "Daakaka"
   },
   {
+    "639-3": "bpc",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Mbuk",
+    "englishName": "Mbuk"
+  },
+  {
     "639-3": "bpd",
     "639-2B": null,
     "639-2T": null,
@@ -7388,8 +7396,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Lave",
-    "englishName": "Lave"
+    "nativeName": "Brao",
+    "englishName": "Brao"
   },
   {
     "639-3": "brc",
@@ -10600,6 +10608,14 @@
     "englishName": "Northern Ping Chinese"
   },
   {
+    "639-3": "cnq",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Chung",
+    "englishName": "Chung"
+  },
+  {
     "639-3": "cnr",
     "639-2B": "cnr",
     "639-2T": "cnr",
@@ -11478,14 +11494,6 @@
     "639-1": null,
     "nativeName": "Usila Chinantec",
     "englishName": "Usila Chinantec"
-  },
-  {
-    "639-3": "cug",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Chungmboko",
-    "englishName": "Chungmboko"
   },
   {
     "639-3": "cuh",
@@ -13576,6 +13584,14 @@
     "englishName": "Tadaksahak"
   },
   {
+    "639-3": "dsz",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Mardin Sign Language",
+    "englishName": "Mardin Sign Language"
+  },
+  {
     "639-3": "dta",
     "639-2B": null,
     "639-2T": null,
@@ -14208,6 +14224,14 @@
     "englishName": "Emilian"
   },
   {
+    "639-3": "egm",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Benamanga",
+    "englishName": "Benamanga"
+  },
+  {
     "639-3": "ego",
     "639-2B": null,
     "639-2T": null,
@@ -14676,8 +14700,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Enwan (Edu State)",
-    "englishName": "Enwan (Edu State)"
+    "nativeName": "Enwan (Edo State)",
+    "englishName": "Enwan (Edo State)"
   },
   {
     "639-3": "enw",
@@ -17622,6 +17646,14 @@
     "639-1": null,
     "nativeName": "Gavar",
     "englishName": "Gavar"
+  },
+  {
+    "639-3": "gov",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Goo",
+    "englishName": "Goo"
   },
   {
     "639-3": "gow",
@@ -20838,6 +20870,14 @@
     "639-1": null,
     "nativeName": "Marsian",
     "englishName": "Marsian"
+  },
+  {
+    "639-3": "imt",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Imotong",
+    "englishName": "Imotong"
   },
   {
     "639-3": "imy",
@@ -27808,14 +27848,6 @@
     "englishName": "Lango (Uganda)"
   },
   {
-    "639-3": "lak",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Laka (Nigeria)",
-    "englishName": "Laka (Nigeria)"
-  },
-  {
     "639-3": "lal",
     "639-2B": null,
     "639-2T": null,
@@ -28590,6 +28622,14 @@
     "639-1": null,
     "nativeName": "T'apo",
     "englishName": "T'apo"
+  },
+  {
+    "639-3": "lgo",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Lango (South Sudan)",
+    "englishName": "Lango (South Sudan)"
   },
   {
     "639-3": "lgq",
@@ -29512,14 +29552,6 @@
     "englishName": "Lorediakarkar"
   },
   {
-    "639-3": "lno",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Lango (South Sudan)",
-    "englishName": "Lango (South Sudan)"
-  },
-  {
     "639-3": "lns",
     "639-2B": null,
     "639-2T": null,
@@ -29792,6 +29824,14 @@
     "englishName": "Lopit"
   },
   {
+    "639-3": "lqr",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Logir",
+    "englishName": "Logir"
+  },
+  {
     "639-3": "lra",
     "639-2B": null,
     "639-2T": null,
@@ -29920,6 +29960,14 @@
     "englishName": "Burundian Sign Language"
   },
   {
+    "639-3": "lsc",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Albarradas Sign Language",
+    "englishName": "Albarradas Sign Language"
+  },
+  {
     "639-3": "lsd",
     "639-2B": null,
     "639-2T": null,
@@ -30022,6 +30070,14 @@
     "639-1": null,
     "nativeName": "Sivia Sign Language",
     "englishName": "Sivia Sign Language"
+  },
+  {
+    "639-3": "lsw",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Seychelles Sign Language",
+    "englishName": "Seychelles Sign Language"
   },
   {
     "639-3": "lsy",
@@ -39096,6 +39152,14 @@
     "englishName": "Nawaru"
   },
   {
+    "639-3": "nww",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Ndwewe",
+    "englishName": "Ndwewe"
+  },
+  {
     "639-3": "nwx",
     "639-2B": null,
     "639-2T": null,
@@ -39766,6 +39830,14 @@
     "639-1": null,
     "nativeName": "Oirata",
     "englishName": "Oirata"
+  },
+  {
+    "639-3": "oie",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Okolie",
+    "englishName": "Okolie"
   },
   {
     "639-3": "oin",
@@ -41696,6 +41768,14 @@
     "englishName": "Phukha"
   },
   {
+    "639-3": "phj",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Pahari",
+    "englishName": "Pahari"
+  },
+  {
     "639-3": "phk",
     "639-2B": null,
     "639-2T": null,
@@ -41846,14 +41926,6 @@
     "639-1": null,
     "nativeName": "Pitcairn-Norfolk",
     "englishName": "Pitcairn-Norfolk"
-  },
-  {
-    "639-3": "pii",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Pini",
-    "englishName": "Pini"
   },
   {
     "639-3": "pij",
@@ -43076,8 +43148,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Persian Sign Language",
-    "englishName": "Persian Sign Language"
+    "nativeName": "Iranian Sign Language",
+    "englishName": "Iranian Sign Language"
   },
   {
     "639-3": "psd",
@@ -43616,12 +43688,20 @@
     "englishName": "Pyen"
   },
   {
+    "639-3": "pzh",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Pazeh",
+    "englishName": "Pazeh"
+  },
+  {
     "639-3": "pzn",
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Para Naga",
-    "englishName": "Para Naga"
+    "nativeName": "Jejara Naga",
+    "englishName": "Jejara Naga"
   },
   {
     "639-3": "qua",
@@ -44520,6 +44600,14 @@
     "englishName": "Riang (India)"
   },
   {
+    "639-3": "rib",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Bribri Sign Language",
+    "englishName": "Bribri Sign Language"
+  },
+  {
     "639-3": "rif",
     "639-2B": null,
     "639-2T": null,
@@ -44848,6 +44936,14 @@
     "englishName": "Marma"
   },
   {
+    "639-3": "rnb",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Brunca Sign Language",
+    "englishName": "Brunca Sign Language"
+  },
+  {
     "639-3": "rnd",
     "639-2B": null,
     "639-2T": null,
@@ -45072,6 +45168,14 @@
     "englishName": "Romano-Serbian"
   },
   {
+    "639-3": "rsk",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Ruthenian",
+    "englishName": "Ruthenian"
+  },
+  {
     "639-3": "rsl",
     "639-2B": null,
     "639-2T": null,
@@ -45086,6 +45190,14 @@
     "639-1": null,
     "nativeName": "Miriwoong Sign Language",
     "englishName": "Miriwoong Sign Language"
+  },
+  {
+    "639-3": "rsn",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Rwandan Sign Language",
+    "englishName": "Rwandan Sign Language"
   },
   {
     "639-3": "rtc",
@@ -47360,14 +47472,6 @@
     "englishName": "Som"
   },
   {
-    "639-3": "smd",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Sama",
-    "englishName": "Sama"
-  },
-  {
     "639-3": "sme",
     "639-2B": "sme",
     "639-2T": "sme",
@@ -47542,14 +47646,6 @@
     "639-1": "sn",
     "nativeName": "chiShona",
     "englishName": "Shona"
-  },
-  {
-    "639-3": "snb",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Sebuyau",
-    "englishName": "Sebuyau"
   },
   {
     "639-3": "snc",
@@ -51896,6 +51992,14 @@
     "englishName": "Tojolabal"
   },
   {
+    "639-3": "tok",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Toki Pona",
+    "englishName": "Toki Pona"
+  },
+  {
     "639-3": "tol",
     "639-2B": null,
     "639-2T": null,
@@ -53848,6 +53952,14 @@
     "englishName": "Ughele"
   },
   {
+    "639-3": "ugh",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Kubachi",
+    "englishName": "Kubachi"
+  },
+  {
     "639-3": "ugn",
     "639-2B": null,
     "639-2T": null,
@@ -54328,6 +54440,14 @@
     "englishName": "Unde Kaili"
   },
   {
+    "639-3": "uon",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Kulon",
+    "englishName": "Kulon"
+  },
+  {
     "639-3": "upi",
     "639-2B": null,
     "639-2T": null,
@@ -54638,14 +54758,6 @@
     "639-1": null,
     "nativeName": "Urum",
     "englishName": "Urum"
-  },
-  {
-    "639-3": "uun",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Kulon-Pazeh",
-    "englishName": "Kulon-Pazeh"
   },
   {
     "639-3": "uur",
@@ -55856,6 +55968,14 @@
     "englishName": "Wadikali"
   },
   {
+    "639-3": "wdt",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Wendat",
+    "englishName": "Wendat"
+  },
+  {
     "639-3": "wdu",
     "639-2B": null,
     "639-2T": null,
@@ -56816,14 +56936,6 @@
     "englishName": "Waluwarra"
   },
   {
-    "639-3": "wrd",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Warduji",
-    "englishName": "Warduji"
-  },
-  {
     "639-3": "wrg",
     "639-2B": null,
     "639-2T": null,
@@ -57232,14 +57344,6 @@
     "englishName": "Wardandi"
   },
   {
-    "639-3": "wya",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Wyandot",
-    "englishName": "Wyandot"
-  },
-  {
     "639-3": "wyb",
     "639-2B": null,
     "639-2T": null,
@@ -57262,6 +57366,14 @@
     "639-1": null,
     "nativeName": "Wymysorys",
     "englishName": "Wymysorys"
+  },
+  {
+    "639-3": "wyn",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Wyandot",
+    "englishName": "Wyandot"
   },
   {
     "639-3": "wyr",
@@ -57728,6 +57840,14 @@
     "englishName": "Kwandu"
   },
   {
+    "639-3": "xdq",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Kaitag",
+    "englishName": "Kaitag"
+  },
+  {
     "639-3": "xdy",
     "639-2B": null,
     "639-2T": null,
@@ -57944,6 +58064,14 @@
     "englishName": "Khetrani"
   },
   {
+    "639-3": "xhm",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Middle Khmer (1400 to 1850 CE)",
+    "englishName": "Middle Khmer (1400 to 1850 CE)"
+  },
+  {
     "639-3": "xho",
     "639-2B": "xho",
     "639-2T": "xho",
@@ -58140,8 +58268,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Kaco'",
-    "englishName": "Kaco'"
+    "nativeName": "Kachok",
+    "englishName": "Kachok"
   },
   {
     "639-3": "xkl",
@@ -58540,8 +58668,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Maden",
-    "englishName": "Maden"
+    "nativeName": "Salawati",
+    "englishName": "Salawati"
   },
   {
     "639-3": "xmy",
@@ -61942,6 +62070,14 @@
     "639-1": null,
     "nativeName": "Coatecas Altas Zapotec",
     "englishName": "Coatecas Altas Zapotec"
+  },
+  {
+    "639-3": "zcd",
+    "639-2B": "zcd",
+    "639-2T": "zcd",
+    "639-1": null,
+    "nativeName": "Las Delicias Zapotec",
+    "englishName": "Las Delicias Zapotec"
   },
   {
     "639-3": "zch",
