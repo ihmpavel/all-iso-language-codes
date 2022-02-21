@@ -1,4 +1,4 @@
-# List of ISO 639-1, 639-2T, 639-2B and 639-3 codes with translations in all available languages.
+# List of ISO 639-1, 639-2T, 639-2B and 639-3 codes with translations in all available languages
 
 Sometimes you need to get a fresh list of **639-1**, **639-2T**, **639-2B** or **639-3** language codes and their translations. Until now there was not an easy way to get them.
 
@@ -35,4 +35,8 @@ There are `jest` tests which tests basic functionality. Feel free to extend them
 ## More info
 Getting the list of all available languages is from [official list](https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab) 
 
+## More packages from me
+- [all-iso-language-codes](https://github.com/ihmpavel/all-iso-language-codes) - List of ISO 639-1, 639-2T, 639-2B and 639-3 codes with translations in all available languages
+- [expo-video-player](https://github.com/ihmpavel/expo-video-player) - Customizable Video Player controls for Expo
+- [free-email-domains-list](https://github.com/ihmpavel/expo-video-player) - Fresh list of all free email domain providers. Can be used to check if an email address belongs to a company. Updated weekly
 
