@@ -5,12 +5,14 @@ import all from '../data/all.json'
 export type IsoType = keyof typeof all
 
 const finder = (isoType: IsoType, code: string) => advanced.find(obj => obj[isoType] === code)
+
 // https://stackoverflow.com/a/37511463
 const normalizeString = (str: string) =>
   str
     .toLowerCase()
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '')
+
 const getCodeHelper = (code: string, availableIsoTypes?: IsoType[] | null) => {
   let found = null
   if ((availableIsoTypes?.includes('639-3') || !availableIsoTypes) && !found) {
@@ -28,27 +30,28 @@ const getCodeHelper = (code: string, availableIsoTypes?: IsoType[] | null) => {
   return found
 }
 
-const getNameHelper = (code: string, language: string): string | null => {
+const getNameHelper = (code: string, language?: string): string | null => {
   const found = getCodeHelper(code)
 
   if (!found) {
     return null
   }
 
-  if (found?.['639-1'] && (language !== 'en' || language !== found['639-1'])) {
+  if (
+    found?.['639-1'] &&
+    typeof language !== 'undefined' &&
+    (language !== 'en' || language !== found['639-1'])
+  ) {
     // @ts-expect-error Trust me this is the only way to do this
     return languageImports639_1.default?.[language]?.[`${found?.['639-1']}`] || null
   }
 
-  return language === 'en'
-    ? found?.englishName
-    : language === found?.['639-1']
-    ? found?.nativeName
-    : null
+  return language === 'en' ? found?.englishName : found?.nativeName ?? null
 }
 
 export const getEnglishName = (code: string) => getName(code)
 export const getName = (code: string, language = 'en') => getNameHelper(code, language)
+export const getNativeName = (code: string) => getNameHelper(code)
 
 export const isValid = (code: string, availableIsoTypes?: IsoType[] | null, moreInfo = false) => {
   const found = getCodeHelper(code, availableIsoTypes)

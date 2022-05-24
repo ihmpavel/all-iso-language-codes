@@ -13,6 +13,7 @@ All data are available in `json` format in `data/[language]/639-1.json`. More fo
 | Function | Arguments | Return value | Example usage |
 |---|---|---|---|
 | `getEnglishName(code: string)` | `language code` | `string` &#124; `null` | `getEnglishName('cs')` => `Czech` |
+| `getNativeName(code: string)` | `language code` | `string` &#124; `null` | `getNativeName('cs')` => `čeština` |
 | `getName(code: string, language = 'en')` | `from language, to language?` | `string` &#124; `null` | `getName('cs', 'en')` => `Czech` |
 | `isValid(code: string, availableIsoTypes?: IsoType[], moreInfo = false)` | `language code, IsoType (below table), moreInfo` | `boolean` &#124; `{ iso: IsoType` &#124; `null; found: boolean; }` | `isValid('cs')` => `true`, `isValid('cs', ['639-1'], true)` => `{ iso: '639-1'; found: true; }`, |
 | `getIsoCodesFromNativeName(nativeName: string, normalizeString = false)` | `language name, should normalize string (lowercase and remove diacritics)` | `IsoType[]` &#124; `null` | `getIsoCodesFromNativeName('ČeŠtInA', true)` => `['639-3', '639-2B', '639-2T', '639-1']` |

@@ -1,4 +1,4 @@
-import { getEnglishName, getIsoCodesFromNativeName, getName, isValid } from '../src'
+import { getEnglishName, getIsoCodesFromNativeName, getName, getNativeName, isValid } from '../src'
 
 describe('Get name', () => {
   it('Code without language', () => {
@@ -54,6 +54,37 @@ describe('Get English name', () => {
   })
   it('Unknown code 639-1', () => {
     const name = getEnglishName('unknown')
+    expect(name).toEqual(null)
+  })
+})
+
+describe('Get Native name', () => {
+  it('Code', () => {
+    const name = getNativeName('cs')
+    expect(name).toEqual('čeština')
+  })
+  it('Code 639-1', () => {
+    const name = getNativeName('cs')
+    expect(name).toEqual('čeština')
+  })
+  it('Code 639-2T', () => {
+    const name = getNativeName('ces')
+    expect(name).toEqual('čeština')
+  })
+  it('Code 639-2B', () => {
+    const name = getNativeName('cze')
+    expect(name).toEqual('čeština')
+  })
+  it('Code 639-3', () => {
+    const name = getNativeName('ces')
+    expect(name).toEqual('čeština')
+  })
+  it('Unknown code', () => {
+    const name = getNativeName('unknown')
+    expect(name).toEqual(null)
+  })
+  it('Unknown code 639-1', () => {
+    const name = getNativeName('unknown')
     expect(name).toEqual(null)
   })
 })
