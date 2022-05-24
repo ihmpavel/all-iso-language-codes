@@ -1,6 +1,6 @@
 {
   "name": "all-iso-language-codes",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": false,
   "description": "List of all iso 639-1, 639-2T, 639-2B, 639-3 codes with their translations in any language",
   "keywords": [
