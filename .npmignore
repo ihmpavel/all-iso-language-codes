@@ -2,6 +2,7 @@ node_modules/
 scripts/
 src/
 test/
+data/
 build/scripts
 build/test
 .eslintrc.js
@@ -9,3 +10,4 @@ build/test
 .prettierrc.js
 .jest.config.js
 .tsconfig.json
+.github/
