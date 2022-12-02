@@ -5276,7 +5276,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Haryanvi",
+    "nativeName": "हरियाणवी",
     "englishName": "Haryanvi"
   },
   {
@@ -5556,7 +5556,7 @@
     "639-2B": "bho",
     "639-2T": "bho",
     "639-1": null,
-    "nativeName": "Bhojpuri",
+    "nativeName": "भोजपुरी",
     "englishName": "Bhojpuri"
   },
   {
@@ -6213,7 +6213,7 @@
     "639-2T": "bla",
     "639-1": null,
     "nativeName": "Siksika",
-    "englishName": "Siksika"
+    "englishName": "Siksiká"
   },
   {
     "639-3": "blb",
@@ -9692,7 +9692,7 @@
     "639-2B": "ceb",
     "639-2T": "ceb",
     "639-1": null,
-    "nativeName": "Binisaya",
+    "nativeName": "Cebuano",
     "englishName": "Cebuano"
   },
   {
@@ -9964,7 +9964,7 @@
     "639-2B": "chv",
     "639-2T": "chv",
     "639-1": "cv",
-    "nativeName": "Chuvash",
+    "nativeName": "чӑваш",
     "englishName": "Chuvash"
   },
   {
@@ -15717,7 +15717,7 @@
     "639-2T": null,
     "639-1": null,
     "nativeName": "Pulaar",
-    "englishName": "Fulah"
+    "englishName": "Fula"
   },
   {
     "639-3": "fud",
@@ -15773,7 +15773,7 @@
     "639-2T": "ful",
     "639-1": "ff",
     "nativeName": "Pulaar",
-    "englishName": "Fulah"
+    "englishName": "Fula"
   },
   {
     "639-3": "fum",
@@ -27828,8 +27828,8 @@
     "639-2B": "lah",
     "639-2T": "lah",
     "639-1": null,
-    "nativeName": "Lahnda",
-    "englishName": "Lahnda"
+    "nativeName": "Western Panjabi",
+    "englishName": "Western Panjabi"
   },
   {
     "639-3": "lai",
@@ -33948,7 +33948,7 @@
     "639-2B": "mao",
     "639-2T": "mri",
     "639-1": "mi",
-    "nativeName": "te reo Māori",
+    "nativeName": "Māori",
     "englishName": "Māori"
   },
   {
@@ -34596,7 +34596,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Rajasthani",
+    "nativeName": "राजस्थानी",
     "englishName": "Rajasthani"
   },
   {
@@ -42508,8 +42508,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Lahnda",
-    "englishName": "Lahnda"
+    "nativeName": "Western Panjabi",
+    "englishName": "Western Panjabi"
   },
   {
     "639-3": "pnc",
@@ -42964,8 +42964,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Malecite",
-    "englishName": "Malecite"
+    "nativeName": "Maliseet-Passamaquoddy",
+    "englishName": "Maliseet-Passamaquoddy"
   },
   {
     "639-3": "prc",
@@ -44236,7 +44236,7 @@
     "639-2B": "raj",
     "639-2T": "raj",
     "639-1": null,
-    "nativeName": "Rajasthani",
+    "nativeName": "राजस्थानी",
     "englishName": "Rajasthani"
   },
   {
@@ -45533,7 +45533,7 @@
     "639-2T": "sah",
     "639-1": null,
     "nativeName": "саха тыла",
-    "englishName": "Sakha"
+    "englishName": "Yakut"
   },
   {
     "639-3": "saj",
@@ -58076,7 +58076,7 @@
     "639-2B": "xho",
     "639-2T": "xho",
     "639-1": "xh",
-    "nativeName": "isiXhosa",
+    "nativeName": "IsiXhosa",
     "englishName": "Xhosa"
   },
   {
