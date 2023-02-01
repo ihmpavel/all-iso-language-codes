@@ -1,5 +1,6 @@
 import fs from 'fs'
 
+// https://github.com/unicode-org/icu/tree/2f8749a026f3ddc8cf54d4622480b7c543bb7fc0
 const URL = 'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab'
 
 const main = async () => {
