@@ -1,7 +1,7 @@
 {
   "aa": "Afar",
   "ab": "Abkhazian",
-  "af": "isiBhulu",
+  "af": "IsiBhulu",
   "ak": "Akan",
   "am": "Amharic",
   "ar": "Isi-Arabhu",
@@ -55,7 +55,7 @@
   "gu": "Gujarati",
   "ht": "Haitian Creole",
   "ha": "Hausa",
-  "sh": "sr (IsiLatin)",
+  "sh": "Sr (IsiLatin)",
   "he": "Hebrew",
   "hz": "Herero",
   "hi": "IsiHindi",
@@ -159,7 +159,7 @@
   "tt": "Tatar",
   "te": "Telugu",
   "tg": "Tajik",
-  "tl": "fil",
+  "tl": "Fil",
   "th": "Isi-Thai",
   "ti": "Tigrinya",
   "to": "Tongan",
@@ -167,7 +167,7 @@
   "ts": "Tsonga",
   "tk": "Turkmen",
   "tr": "Isi-Turkish",
-  "tw": "ak",
+  "tw": "Ak",
   "ug": "Uyghur",
   "uk": "Ukrainian",
   "ur": "Urdu",
@@ -182,5 +182,5 @@
   "yo": "Yoruba",
   "za": "Zhuang",
   "zh": "IsiMandarin",
-  "zu": "isiZulu"
+  "zu": "IsiZulu"
 }
