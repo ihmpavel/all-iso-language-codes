@@ -53,6 +53,11 @@ const main = async () => {
           translation === l
             ? new Intl.DisplayNames(['en'], { type: 'language' }).of(l)
             : translation
+
+        // Capitalize locale names
+        const originalString = data_639_1[language]?.[l]
+        // @ts-expect-error Translation
+        data_639_1[language][l] = originalString?.charAt(0).toUpperCase() + originalString?.slice(1)
       })
 
       if (!fs.existsSync(dir)) {
