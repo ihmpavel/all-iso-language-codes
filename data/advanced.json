@@ -6308,7 +6308,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Anii",
+    "nativeName": "anii kagɩja",
     "englishName": "Anii"
   },
   {
@@ -10332,7 +10332,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Syriac",
+    "nativeName": "ܣܘܪܝܝܐ",
     "englishName": "Syriac"
   },
   {
@@ -11308,7 +11308,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Swampy Cree",
+    "nativeName": "ᓀᐦᐃᓇᐍᐏᐣ",
     "englishName": "Swampy Cree"
   },
   {
@@ -14764,7 +14764,7 @@
     "639-2B": "epo",
     "639-2T": "epo",
     "639-1": "eo",
-    "nativeName": "esperanto",
+    "nativeName": "Esperanto",
     "englishName": "Esperanto"
   },
   {
@@ -25188,7 +25188,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "kurdî",
+    "nativeName": "kurdî (kurmancî)",
     "englishName": "Kurdish"
   },
   {
@@ -26764,7 +26764,7 @@
     "639-2B": "kur",
     "639-2T": "kur",
     "639-1": "ku",
-    "nativeName": "kurdî",
+    "nativeName": "kurdî (kurmancî)",
     "englishName": "Kurdish"
   },
   {
@@ -27372,7 +27372,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Kuvi",
+    "nativeName": "kuvi",
     "englishName": "Kuvi"
   },
   {
@@ -28860,7 +28860,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Ligurian",
+    "nativeName": "ligure",
     "englishName": "Ligurian"
   },
   {
@@ -32188,8 +32188,8 @@
     "639-2B": "mic",
     "639-2T": "mic",
     "639-1": null,
-    "nativeName": "Mi'kmaq",
-    "englishName": "Mi'kmaq"
+    "nativeName": "Mi'kmaw",
+    "englishName": "Mi'kmaw"
   },
   {
     "639-3": "mid",
@@ -36348,7 +36348,7 @@
     "639-2B": "nds",
     "639-2T": "nds",
     "639-1": null,
-    "nativeName": "Low German",
+    "nativeName": "Neddersass’sch",
     "englishName": "Low German"
   },
   {
@@ -38412,7 +38412,7 @@
     "639-2B": "nqo",
     "639-2T": "nqo",
     "639-1": null,
-    "nativeName": "N’Ko",
+    "nativeName": "ߒߞߏ",
     "englishName": "N’Ko"
   },
   {
@@ -39724,7 +39724,7 @@
     "639-2B": "oci",
     "639-2T": "oci",
     "639-1": "oc",
-    "nativeName": "Occitan",
+    "nativeName": "occitan",
     "englishName": "Occitan"
   },
   {
@@ -43036,7 +43036,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Prussian",
+    "nativeName": "prūsiskan",
     "englishName": "Prussian"
   },
   {
@@ -49492,7 +49492,7 @@
     "639-2B": "syr",
     "639-2T": "syr",
     "639-1": null,
-    "nativeName": "Syriac",
+    "nativeName": "ܣܘܪܝܝܐ",
     "englishName": "Syriac"
   },
   {
@@ -49572,7 +49572,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Silesian",
+    "nativeName": "ślōnski",
     "englishName": "Silesian"
   },
   {
@@ -52012,7 +52012,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Toki Pona",
+    "nativeName": "toki pona",
     "englishName": "Toki Pona"
   },
   {
@@ -55020,7 +55020,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Venetian",
+    "nativeName": "veneto",
     "englishName": "Venetian"
   },
   {
@@ -55444,7 +55444,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Makhuwa",
+    "nativeName": "emakhuwa",
     "englishName": "Makhuwa"
   },
   {
@@ -58820,7 +58820,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Kangri",
+    "nativeName": "कांगड़ी",
     "englishName": "Kangri"
   },
   {
@@ -62236,7 +62236,7 @@
     "639-2B": "zha",
     "639-2T": "zha",
     "639-1": "za",
-    "nativeName": "Zhuang",
+    "nativeName": "Vahcuengh",
     "englishName": "Zhuang"
   },
   {
@@ -63276,7 +63276,7 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Zhuang",
+    "nativeName": "Vahcuengh",
     "englishName": "Zhuang"
   },
   {
