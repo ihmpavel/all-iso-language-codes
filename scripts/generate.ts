@@ -10,7 +10,9 @@ const main = async () => {
   const res = await req.text()
 
   // ignore header
-  const [, ...rawData]: string[] = res.split('\r\n')
+  const [, ...rawData]: string[] = res.split('\n')
+  rawData.pop() // remove last empty line
+
   // from the file header
   // Id, Part2B, Part2T, Part1, Scope, Language_Type, Ref_Name, Comment
   const rawRows = rawData.map(row => {

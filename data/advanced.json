@@ -10400,6 +10400,14 @@
     "englishName": "Lowland Oaxaca Chontal"
   },
   {
+    "639-3": "cls",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Classical Sanskrit",
+    "englishName": "Classical Sanskrit"
+  },
+  {
     "639-3": "clt",
     "639-2B": null,
     "639-2T": null,
@@ -45176,6 +45184,14 @@
     "englishName": "Ririo"
   },
   {
+    "639-3": "rrm",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Moriori",
+    "englishName": "Moriori"
+  },
+  {
     "639-3": "rro",
     "639-2B": null,
     "639-2T": null,
@@ -55566,6 +55582,14 @@
     "639-1": null,
     "nativeName": "Venezuelan Sign Language",
     "englishName": "Venezuelan Sign Language"
+  },
+  {
+    "639-3": "vsn",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Vedic Sanskrit",
+    "englishName": "Vedic Sanskrit"
   },
   {
     "639-3": "vsv",
