@@ -412,8 +412,8 @@
     "639-2B": "ace",
     "639-2T": "ace",
     "639-1": null,
-    "nativeName": "Achinese",
-    "englishName": "Achinese"
+    "nativeName": "Acehnese",
+    "englishName": "Acehnese"
   },
   {
     "639-3": "acf",
@@ -21302,6 +21302,14 @@
     "639-1": null,
     "nativeName": "Isu (Menchum Division)",
     "englishName": "Isu (Menchum Division)"
+  },
+  {
+    "639-3": "isv",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Interslavic",
+    "englishName": "Interslavic"
   },
   {
     "639-3": "ita",
