@@ -7260,8 +7260,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Bilakura",
-    "englishName": "Bilakura"
+    "nativeName": "Karian",
+    "englishName": "Karian"
   },
   {
     "639-3": "bqm",
@@ -11924,8 +11924,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Dao",
-    "englishName": "Dao"
+    "nativeName": "Moi-Wadea",
+    "englishName": "Moi-Wadea"
   },
   {
     "639-3": "dba",
@@ -12246,14 +12246,6 @@
     "639-1": null,
     "nativeName": "Demisa",
     "englishName": "Demisa"
-  },
-  {
-    "639-3": "dek",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Dek",
-    "englishName": "Dek"
   },
   {
     "639-3": "del",
@@ -15100,7 +15092,7 @@
     "639-2B": "ewe",
     "639-2T": "ewe",
     "639-1": "ee",
-    "nativeName": "Eʋegbe",
+    "nativeName": "eʋegbe",
     "englishName": "Ewe"
   },
   {
@@ -15908,7 +15900,7 @@
     "639-2B": "gaa",
     "639-2T": "gaa",
     "639-1": null,
-    "nativeName": "Ga",
+    "nativeName": "Gã",
     "englishName": "Ga"
   },
   {
@@ -17620,8 +17612,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Goan Konkani",
-    "englishName": "Goan Konkani"
+    "nativeName": "कोंकणी",
+    "englishName": "Konkani"
   },
   {
     "639-3": "gon",
@@ -19502,6 +19494,14 @@
     "639-1": null,
     "nativeName": "Hmong Njua",
     "englishName": "Hmong Njua"
+  },
+  {
+    "639-3": "hnm",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Hainanese",
+    "englishName": "Hainanese"
   },
   {
     "639-3": "hnn",
@@ -24356,7 +24356,7 @@
     "639-2B": "kin",
     "639-2T": "kin",
     "639-1": "rw",
-    "nativeName": "Kinyarwanda",
+    "nativeName": "Ikinyarwanda",
     "englishName": "Kinyarwanda"
   },
   {
@@ -25372,8 +25372,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "कोंकणी",
-    "englishName": "Konkani"
+    "nativeName": "Konkani (individual language)",
+    "englishName": "Konkani (individual language)"
   },
   {
     "639-3": "kno",
@@ -30272,6 +30272,14 @@
     "englishName": "Ganda"
   },
   {
+    "639-3": "luh",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Leizhou Chinese",
+    "englishName": "Leizhou Chinese"
+  },
+  {
     "639-3": "lui",
     "639-2B": "lui",
     "639-2T": "lui",
@@ -33036,8 +33044,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Musar",
-    "englishName": "Musar"
+    "nativeName": "Hember Avu",
+    "englishName": "Hember Avu"
   },
   {
     "639-3": "mmj",
@@ -38700,7 +38708,7 @@
     "639-2B": "nso",
     "639-2T": "nso",
     "639-1": null,
-    "nativeName": "Northern Sotho",
+    "nativeName": "Sesotho sa Leboa",
     "englishName": "Northern Sotho"
   },
   {
@@ -38798,14 +38806,6 @@
     "639-1": null,
     "nativeName": "Northern Tidung",
     "englishName": "Northern Tidung"
-  },
-  {
-    "639-3": "nte",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Nathembo",
-    "englishName": "Nathembo"
   },
   {
     "639-3": "ntg",
@@ -47024,6 +47024,14 @@
     "englishName": "Sajau Basap"
   },
   {
+    "639-3": "sjc",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Shaojiang Chinese",
+    "englishName": "Shaojiang Chinese"
+  },
+  {
     "639-3": "sjd",
     "639-2B": null,
     "639-2T": null,
@@ -48020,7 +48028,7 @@
     "639-2B": "sot",
     "639-2T": "sot",
     "639-1": "st",
-    "nativeName": "Southern Sotho",
+    "nativeName": "Sesotho",
     "englishName": "Southern Sotho"
   },
   {
@@ -52708,7 +52716,7 @@
     "639-2B": "tsn",
     "639-2T": "tsn",
     "639-1": "tn",
-    "nativeName": "Tswana",
+    "nativeName": "Setswana",
     "englishName": "Tswana"
   },
   {
