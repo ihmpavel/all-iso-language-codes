@@ -15092,7 +15092,7 @@
     "639-2B": "ewe",
     "639-2T": "ewe",
     "639-1": "ee",
-    "nativeName": "Eʋegbe",
+    "nativeName": "eʋegbe",
     "englishName": "Ewe"
   },
   {
@@ -15900,7 +15900,7 @@
     "639-2B": "gaa",
     "639-2T": "gaa",
     "639-1": null,
-    "nativeName": "Ga",
+    "nativeName": "Gã",
     "englishName": "Ga"
   },
   {
@@ -17612,8 +17612,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Goan Konkani",
-    "englishName": "Goan Konkani"
+    "nativeName": "कोंकणी",
+    "englishName": "Konkani"
   },
   {
     "639-3": "gon",
@@ -24356,7 +24356,7 @@
     "639-2B": "kin",
     "639-2T": "kin",
     "639-1": "rw",
-    "nativeName": "Kinyarwanda",
+    "nativeName": "Ikinyarwanda",
     "englishName": "Kinyarwanda"
   },
   {
@@ -25372,8 +25372,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "कोंकणी",
-    "englishName": "Konkani"
+    "nativeName": "Konkani (individual language)",
+    "englishName": "Konkani (individual language)"
   },
   {
     "639-3": "kno",
@@ -38708,7 +38708,7 @@
     "639-2B": "nso",
     "639-2T": "nso",
     "639-1": null,
-    "nativeName": "Northern Sotho",
+    "nativeName": "Sesotho sa Leboa",
     "englishName": "Northern Sotho"
   },
   {
@@ -48028,7 +48028,7 @@
     "639-2B": "sot",
     "639-2T": "sot",
     "639-1": "st",
-    "nativeName": "Southern Sotho",
+    "nativeName": "Sesotho",
     "englishName": "Southern Sotho"
   },
   {
@@ -52716,7 +52716,7 @@
     "639-2B": "tsn",
     "639-2T": "tsn",
     "639-1": "tn",
-    "nativeName": "Tswana",
+    "nativeName": "Setswana",
     "englishName": "Tswana"
   },
   {
