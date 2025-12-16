@@ -1,0 +1,36 @@
+{
+  "$schema": "./overrides.schema.json",
+  "$comment": "Example overrides file - copy values to overrides.json to use",
+  "eng": {
+    "nativeName": "English",
+    "englishName": "English"
+  },
+  "deu": {
+    "nativeName": "Deutsch",
+    "englishName": "German"
+  },
+  "fra": {
+    "nativeName": "Français",
+    "englishName": "French"
+  },
+  "spa": {
+    "nativeName": "Español",
+    "englishName": "Spanish"
+  },
+  "jpn": {
+    "nativeName": "日本語",
+    "englishName": "Japanese"
+  },
+  "zho": {
+    "nativeName": "中文",
+    "englishName": "Chinese"
+  },
+  "rus": {
+    "nativeName": "Русский",
+    "englishName": "Russian"
+  },
+  "ara": {
+    "nativeName": "العربية",
+    "englishName": "Arabic"
+  }
+}

@@ -3,6 +3,7 @@
 /src/
 /test/
 /data/
+/patches/
 /build/scripts
 /build/test
 .eslintrc.js

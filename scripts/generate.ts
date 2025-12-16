@@ -2,8 +2,38 @@ import fs from 'fs'
 
 // https://github.com/unicode-org/icu/tree/2f8749a026f3ddc8cf54d4622480b7c543bb7fc0
 const URL = 'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab'
+const OVERRIDES_PATH = './patches/overrides.json'
+
+interface LanguageOverride {
+  nativeName?: string | null
+  englishName?: string | null
+}
+
+type OverridesMap = Record<string, LanguageOverride>
+
+const loadOverrides = (): OverridesMap => {
+  if (!fs.existsSync(OVERRIDES_PATH)) {
+    return {}
+  }
+  try {
+    const content = fs.readFileSync(OVERRIDES_PATH, 'utf-8')
+    const data = JSON.parse(content)
+    // Filter out schema and comment fields
+    const overrides: OverridesMap = {}
+    for (const [key, value] of Object.entries(data)) {
+      if (!key.startsWith('$')) {
+        overrides[key] = value as LanguageOverride
+      }
+    }
+    return overrides
+  } catch (error) {
+    console.warn('Warning: Could not load overrides file:', error)
+    return {}
+  }
+}
 
 const main = async () => {
+  const overrides = loadOverrides()
   const data_639_1: Record<string, Record<string, string>> = {}
 
   const req = await fetch(URL)
@@ -72,10 +102,27 @@ const main = async () => {
     if (tempEnglishName !== row.englishName && tempEnglishName !== row['639-3']) {
       englishName = tempEnglishName
     }
+
+    // Apply overrides from patches if available
+    const code639_3 = row['639-3']
+    const override = code639_3 ? overrides[code639_3] : undefined
+
+    let finalNativeName = nativeName !== row['639-3'] ? nativeName : englishName
+    let finalEnglishName = englishName
+
+    if (override) {
+      if (override.nativeName !== undefined) {
+        finalNativeName = override.nativeName
+      }
+      if (override.englishName !== undefined) {
+        finalEnglishName = override.englishName
+      }
+    }
+
     return {
       ...row,
-      nativeName: nativeName !== row['639-3'] ? nativeName : englishName,
-      englishName,
+      nativeName: finalNativeName,
+      englishName: finalEnglishName,
     }
   })
 

@@ -46,7 +46,7 @@ const getNameHelper = (code: string, language?: string): string | null => {
     return languageImports639_1.default?.[language]?.[`${found?.['639-1']}`] || null
   }
 
-  return language === 'en' ? found?.englishName : found?.nativeName ?? null
+  return language === 'en' ? found?.englishName : (found?.nativeName ?? null)
 }
 
 export const getEnglishName = (code: string) => getName(code)

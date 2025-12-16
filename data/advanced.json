@@ -10388,8 +10388,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Clallam",
-    "englishName": "Clallam"
+    "nativeName": "Klallam",
+    "englishName": "Klallam"
   },
   {
     "639-3": "clo",
@@ -10404,8 +10404,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Classical Sanskrit",
-    "englishName": "Classical Sanskrit"
+    "nativeName": "संस्कृत भाषा",
+    "englishName": "Sanskrit"
   },
   {
     "639-3": "clt",
@@ -18612,8 +18612,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Han",
-    "englishName": "Han"
+    "nativeName": "Hän",
+    "englishName": "Hän"
   },
   {
     "639-3": "hab",
@@ -23148,8 +23148,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Kamantan",
-    "englishName": "Kamantan"
+    "nativeName": "Ngyian",
+    "englishName": "Ngyian"
   },
   {
     "639-3": "kcj",
@@ -32100,8 +32100,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Mócheno",
-    "englishName": "Mócheno"
+    "nativeName": "Mòcheno",
+    "englishName": "Mòcheno"
   },
   {
     "639-3": "mho",
@@ -39640,6 +39640,14 @@
     "englishName": "Oroch"
   },
   {
+    "639-3": "oak",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Noakhali",
+    "englishName": "Noakhali"
+  },
+  {
     "639-3": "oar",
     "639-2B": null,
     "639-2T": null,
@@ -40142,6 +40150,14 @@
     "639-1": null,
     "nativeName": "Walungge",
     "englishName": "Walungge"
+  },
+  {
+    "639-3": "olb",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Oli-Bodiman",
+    "englishName": "Oli-Bodiman"
   },
   {
     "639-3": "old",
@@ -40710,6 +40726,14 @@
     "639-1": null,
     "nativeName": "Oscan",
     "englishName": "Oscan"
+  },
+  {
+    "639-3": "osd",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Digor Ossetic",
+    "englishName": "Digor Ossetic"
   },
   {
     "639-3": "osi",
@@ -46070,6 +46094,14 @@
     "639-1": null,
     "nativeName": "Sicel",
     "englishName": "Sicel"
+  },
+  {
+    "639-3": "scz",
+    "639-2B": null,
+    "639-2T": null,
+    "639-1": null,
+    "nativeName": "Shaetlan",
+    "englishName": "Shaetlan"
   },
   {
     "639-3": "sda",
@@ -61216,14 +61248,6 @@
     "englishName": "Yokuts"
   },
   {
-    "639-3": "yol",
-    "639-2B": null,
-    "639-2T": null,
-    "639-1": null,
-    "nativeName": "Yola",
-    "englishName": "Yola"
-  },
-  {
     "639-3": "yom",
     "639-2B": null,
     "639-2T": null,
@@ -62676,8 +62700,8 @@
     "639-2B": null,
     "639-2T": null,
     "639-1": null,
-    "nativeName": "Mpuono",
-    "englishName": "Mpuono"
+    "nativeName": "Mbuun",
+    "englishName": "Mbuun"
   },
   {
     "639-3": "zmq",

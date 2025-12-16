@@ -1,0 +1,4 @@
+{
+  "$schema": "./overrides.schema.json",
+  "$comment": "Patch file for overriding nativeName and englishName based on ISO 639-3 codes. Use 639-3 code as key."
+}
